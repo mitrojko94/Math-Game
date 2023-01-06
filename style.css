@@ -263,7 +263,7 @@ button:active {
   }
 
   .selected-item {
-    top: 380px;
+    top: 350px;
   }
 }
 
@@ -276,7 +276,7 @@ button:active {
   }
 
   .selected-item {
-    top: 345px;
+    top: 330px;
   }
 
   .header {
@@ -306,7 +306,7 @@ button:active {
   }
 
   .selection-footer {
-    top: 140px;
+    top: 110px;
   }
 }
 
